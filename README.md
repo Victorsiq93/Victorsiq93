@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 Olá! Eu sou Victor
+
+Sou iniciante em desenvolvimento Python com foco em automação
+de tarefas administrativas e análise de dados.
+
+🔹 Python | Pandas | Excel | APIs  
+🔹 Automação de processos  
+🔹 Projetos práticos e funcionais  
+
+📌 Busco oportunidade como Estagiário ou Desenvolvedor Python Júnior.
+
 
 <!--
 **Victorsiq93/Victorsiq93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
